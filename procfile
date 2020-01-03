@@ -1,1 +1,1 @@
-worker: python g-progbot.py $PORT
+bot: python g-progbot.py
